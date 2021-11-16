@@ -88,4 +88,4 @@ for abc in xiaozu:
                                 faburen.append(FBid)
                                 print(biaoti)
                                 print(lianjie + '\n===================')
-        #time.sleep(random.randint(2,4))
+        time.sleep(random.randint(2,4))
